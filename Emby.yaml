@@ -136,3 +136,11 @@ payload:
   - DOMAIN-SUFFIX,cristiamo.xyz
   - IP-CIDR,161.97.148.156/24,no-resolve
   - DOMAIN-SUFFIX,emby.cristiamo.top
+  - DOMAIN-SUFFIX,aaa.ax
+  - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,emby.kim
+  - DOMAIN-SUFFIX,charontv.com
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,poloemby.xyz
